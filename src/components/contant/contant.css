@@ -16,11 +16,11 @@
     }
     .dark-img {
         width: 33vw;
-        height: 30vh;
+        min-height: 20vw;
     }
     .light-img {
         width: 32vw;
-        height: 30vh;
+        min-height: 21vw;
     }
     .contant-text {
         padding: 1rem 2rem;
