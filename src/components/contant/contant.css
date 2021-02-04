@@ -15,11 +15,11 @@
         margin-top: 0;
     }
     .dark-img {
-        width: 33vw;
+        min-width: 33vw;
         min-height: 20vw;
     }
     .light-img {
-        width: 32vw;
+        min-width: 32vw;
         min-height: 21vw;
     }
     .contant-text {
