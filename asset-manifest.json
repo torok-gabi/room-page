@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/room-page/static/css/main.3bcd4312.chunk.css",
+    "main.js": "/room-page/static/js/main.6d921f24.chunk.js",
+    "main.js.map": "/room-page/static/js/main.6d921f24.chunk.js.map",
+    "runtime-main.js": "/room-page/static/js/runtime-main.e40a4da7.js",
+    "runtime-main.js.map": "/room-page/static/js/runtime-main.e40a4da7.js.map",
+    "static/js/2.d5f0bc89.chunk.js": "/room-page/static/js/2.d5f0bc89.chunk.js",
+    "static/js/2.d5f0bc89.chunk.js.map": "/room-page/static/js/2.d5f0bc89.chunk.js.map",
+    "static/js/3.3e8205b7.chunk.js": "/room-page/static/js/3.3e8205b7.chunk.js",
+    "static/js/3.3e8205b7.chunk.js.map": "/room-page/static/js/3.3e8205b7.chunk.js.map",
+    "index.html": "/room-page/index.html",
+    "static/css/main.3bcd4312.chunk.css.map": "/room-page/static/css/main.3bcd4312.chunk.css.map",
+    "static/js/2.d5f0bc89.chunk.js.LICENSE.txt": "/room-page/static/js/2.d5f0bc89.chunk.js.LICENSE.txt",
+    "static/media/angle-left.d53877df.svg": "/room-page/static/media/angle-left.d53877df.svg",
+    "static/media/angle-right.0ed3f81f.svg": "/room-page/static/media/angle-right.0ed3f81f.svg",
+    "static/media/arrow.84087786.svg": "/room-page/static/media/arrow.84087786.svg",
+    "static/media/home.css": "/room-page/static/media/mobile-image-hero.5de3d147.jpg",
+    "static/media/shop.css": "/room-page/static/media/mobile-image-hero-2.51db290a.jpg",
+    "static/media/about.css": "/room-page/static/media/mobile-image-hero-3.601d0f37.jpg",
+    "static/media/image-about-dark.329bbc44.jpg": "/room-page/static/media/image-about-dark.329bbc44.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e40a4da7.js",
+    "static/js/2.d5f0bc89.chunk.js",
+    "static/css/main.3bcd4312.chunk.css",
+    "static/js/main.6d921f24.chunk.js"
+  ]
+}
