@@ -1,0 +1,31 @@
+.contant-container {
+    width: 100vw;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+@media only screen and (min-width: 1200px) {
+    .contant-container {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        align-items: center;
+        margin-top: 0;
+    }
+    .dark-img {
+        width: 33vw;
+        height: 30vh;
+    }
+    .light-img {
+        width: 32vw;
+        height: 30vh;
+    }
+    .contant-text {
+        padding: 1rem 2rem;
+        width: 35vw;
+        font-size: 1rem;
+        margin: 0;
+    }
+}

@@ -1,0 +1,47 @@
+.home-container {
+    width: 100vw;
+    min-height: 50vh;
+    display: flex;
+    background-image: url(./mobile-image-hero.jpg);
+    background-size: cover;
+    background-position: right;
+    position: relative;
+}
+
+.home-text {
+    width: 80%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+    padding-bottom: 3rem;
+    padding-top: 3rem;
+    align-items: center;
+    font-size: 1.5rem;
+}
+
+@media only screen and (min-width: 1200px) {
+    .home-container {
+        max-width: 55vw;
+        height: 60vh;
+        background-image: url(./desktop-image-hero-1.jpg);
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+    }
+    .home {
+        width: 100vw;
+        height: auto;
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        align-items: flex-end;
+        position: relative;
+    }
+    .home-text {
+        align-items: center;
+        max-width: 30%;
+        font-size: 1rem;
+        margin: auto auto;
+    }
+}

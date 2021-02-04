@@ -1,0 +1,52 @@
+.shop-container {
+    width: 100vw;
+    height: 50vh;
+    display: flex;
+    background-image: url(./mobile-image-hero-2.jpg);
+    background-size: cover;
+    background-position: right;
+    position: relative;
+}
+
+.arrow-wrap {
+    display: flex;
+    width: 100%;
+    margin-top: 2rem;
+    align-items: center;
+    justify-content: center;
+}
+
+.shop-now {
+    text-transform: uppercase;
+    letter-spacing: 1.5;
+    margin-right: 3rem;
+    font-size: 1.8rem;
+    color: black;
+}
+
+@media only screen and (min-width: 1200px) {
+    .shop-container {
+        max-width: 55vw;
+        height: 60vh;
+        background-image: url(./desktop-image-hero-2.jpg);
+        background-size: cover;
+        background-position: center;
+        position: relative;
+        background-repeat: no-repeat;
+    }
+    .shop {
+        width: 100vw;
+        height: auto;
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        align-items: flex-end;
+        position: relative;
+    }
+    .shop-text {
+        align-items: center;
+        max-width: 30%;
+        font-size: 1rem;
+        margin: auto auto;
+    }
+}
